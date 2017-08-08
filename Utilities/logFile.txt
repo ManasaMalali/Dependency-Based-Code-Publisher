@@ -1,0 +1,12 @@
+
+     Sat Apr  1 18:48:03 2017
+     Path: "C:\Users\Divya Sarjapur\Desktop\CodeAnalyzerEx\Utilities"
+     Args: *.h, *.cpp, /f, /r
+                                                                               
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+              public data: Utilities.h : 56 - class test
+                std :: vector < std :: string > publicVector ; 
